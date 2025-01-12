@@ -1,2 +1,2 @@
-# Github-Globe
+# Globe Visualizer
 Sample Github Globe Data Visualizer
