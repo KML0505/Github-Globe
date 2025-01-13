@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "three": "^0.171.0",
+    "vite": "^6.0.6"
+  },
+  "dependencies": {
+    "three-globe": "^2.39.1"
+  }
+}

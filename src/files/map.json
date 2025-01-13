@@ -1,0 +1,40 @@
+{
+    "type": "Map",
+    "maps":[
+        {
+            "text": "KOR",
+            "size": 1.0,
+            "country": "Korea",
+            "city": "Seoul",
+            "lat":"37.57118144741994",
+            "lng":"126.97506307933088"
+        },
+
+        {
+            "text": "CAN",
+            "size": 1.0,
+            "country": "Canada",
+            "city": "Toronto",
+            "lat":"43.711670920570576",
+            "lng":"-79.4096558820841"
+        },
+
+        {
+            "text": "JPN",
+            "size": 1.0,
+            "country": "Japan",
+            "city": "Tokyo",
+            "lat":"35.69117627635801",
+            "lng":"139.76658781725826"
+        },
+
+        {
+            "text": "USA",
+            "size": 1.0,
+            "country": "USA",
+            "city": "New York",
+            "lat":"40.710384472231894",
+            "lng":"-74.0253439532862"
+        }
+    ]
+}
